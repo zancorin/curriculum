@@ -43,13 +43,13 @@ This section contains a general overview of topics that you will learn in this l
 Many of these resources assume you're using a Mac or Linux environment. If you did our previous installation lesson, you should already have Linux installed in dual-boot or a virtual machine. Or, you might be using macOS. If you don't have macOS, or any version of Linux installed, please return to the [operating system installation guide](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/prerequisites).
 </div>
 
-1. Visit [The Unix Shell](https://swcarpentry.github.io/shell-novice/) course designed by the Software Carpentry Foundation. There you will find a full complement of lessons on using the CLI, but for now just focus on completing the following lessons:
+1. Visit [The Unix Shell](https://swcarpentry.github.io/shell-novice/) course designed by the Software Carpentry Foundation. There you will find a full complement of lessons on using the CLI, but for now just focus on completing the following tasks:
     
-   - [Download files](https://swcarpentry.github.io/shell-novice/#download-files)
-   - [Introducing the Shell](https://swcarpentry.github.io/shell-novice/01-intro.html)
-   - [Navigating Files and Directories](https://swcarpentry.github.io/shell-novice/02-filedir.html)
-   - [Working With Files and Directories](https://swcarpentry.github.io/shell-novice/03-create.html)
-   - [Pipes and Filters](https://swcarpentry.github.io/shell-novice/04-pipefilter.html)
+   - [Download shell-lesson-data.zip to your Desktop and unzip it](https://swcarpentry.github.io/shell-novice/#download-files)
+   - [Read through the 'Introducing the Shell' lesson](https://swcarpentry.github.io/shell-novice/01-intro.html)
+   - [Read/Work through the 'Navigating Files and Directories' lesson](https://swcarpentry.github.io/shell-novice/02-filedir.html)
+   - [Work through the 'Working With Files and Directories' lesson](https://swcarpentry.github.io/shell-novice/03-create.html)
+   - [Work through the 'Pipes and Filters' lesson](https://swcarpentry.github.io/shell-novice/04-pipefilter.html)
     
 1. With your newly discovered CLI super powers, practice creating a folder and a few files using the `mkdir`, `touch`, and `cd` commands introduced in the previous step. As an example, a basic website might have a main `index.html` file, a CSS stylesheet file called `style.css`, and a folder for `images`. Think about how you could create these files with the commands and put it into practice!
 
